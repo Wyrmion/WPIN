@@ -31,7 +31,7 @@
 #define __PIN_INTERFACE_H__
 
 
-#include "stm32f765xx.h"
+
 #ifdef __cplusplus
 extern "C"{
 #endif
